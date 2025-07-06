@@ -1,0 +1,95 @@
+{
+  "dramas": [
+    {
+      "id": 1,
+      "title": "drama-1",
+      "description": "A romantic story about revenge",
+      "coverUrl": "/media/covers/drama-1.jpg",
+      "thumbnailUrl": "/media/thumbnails/drama-1-thumb.jpg",
+      "category": "trending",
+      "isHot": true,
+      "isExclusive": true,
+      "totalEpisodes": 60,
+      "freeEpisodes": 3,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Episode 1",
+          "videoUrl": "/media/videos/drama-1/episode-1.mp4",
+          "duration": 126,
+          "requiresVip": false
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Episode 2",
+          "videoUrl": "/media/videos/drama-1/episode-2.mp4",
+          "duration": 128,
+          "requiresVip": false
+        },
+        {
+          "episodeNumber": 3,
+          "title": "Episode 3",
+          "videoUrl": "/media/videos/drama-1/episode-3.mp4",
+          "duration": 125,
+          "requiresVip": false
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Episode 4",
+          "videoUrl": "/media/videos/drama-1/episode-4.mp4",
+          "duration": 130,
+          "requiresVip": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "drama-2",
+      "description": "Romantic love story",
+      "coverUrl": "/media/covers/drama-2.jpg",
+      "thumbnailUrl": "/media/thumbnails/drama-2-thumb.jpg",
+      "category": "trending",
+      "isHot": true,
+      "isExclusive": true,
+      "totalEpisodes": 45,
+      "freeEpisodes": 3,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Episode 1",
+          "videoUrl": "/media/videos/drama-2/episode-1.mp4",
+          "duration": 120,
+          "requiresVip": false
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Episode 2",
+          "videoUrl": "/media/videos/drama-2/episode-2.mp4",
+          "duration": 122,
+          "requiresVip": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "drama-3",
+      "description": "Youth campus drama",
+      "coverUrl": "/media/covers/drama-3.jpg",
+      "thumbnailUrl": "/media/thumbnails/drama-3-thumb.jpg",
+      "category": "recommended",
+      "isRecommended": true,
+      "isExclusive": true,
+      "totalEpisodes": 30,
+      "freeEpisodes": 3,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Episode 1",
+          "videoUrl": "/media/videos/drama-3/episode-1.mp4",
+          "duration": 115,
+          "requiresVip": false
+        }
+      ]
+    }
+  ]
+}
